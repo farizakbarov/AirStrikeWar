@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirStrikeWar", "AirStrikeWar.csproj", "{2D51AA54-567F-C751-650B-E1C552D742DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirStrikeWar.Plugins", "AirStrikeWar.Plugins.csproj", "{363BF73A-3BD6-B736-170B-C21F80FC32EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirStrikeWar.Editor", "AirStrikeWar.Editor.csproj", "{7FDAC488-085E-428E-5E4B-E748AE648522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D51AA54-567F-C751-650B-E1C552D742DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D51AA54-567F-C751-650B-E1C552D742DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D51AA54-567F-C751-650B-E1C552D742DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D51AA54-567F-C751-650B-E1C552D742DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363BF73A-3BD6-B736-170B-C21F80FC32EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363BF73A-3BD6-B736-170B-C21F80FC32EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363BF73A-3BD6-B736-170B-C21F80FC32EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363BF73A-3BD6-B736-170B-C21F80FC32EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDAC488-085E-428E-5E4B-E748AE648522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDAC488-085E-428E-5E4B-E748AE648522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDAC488-085E-428E-5E4B-E748AE648522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDAC488-085E-428E-5E4B-E748AE648522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
