@@ -1,0 +1,11 @@
+{
+    "group": "AppTracker",
+    "libs": [],
+    "frameworks": ["StoreKit.framework", "AdSupport.framework", "CoreTelephony.framework"],
+    "headerpaths": [],
+    "files":   [],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": ["-ObjC"]
+}
